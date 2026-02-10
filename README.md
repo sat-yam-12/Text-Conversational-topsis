@@ -130,10 +130,8 @@ This TOPSIS-based approach offers a clear and structured way to compare and rank
 ---
  Author
 
-**Krish Mahajan**  
+**Satyam Gupta**  
 
 ---
 
-License
 
-This project is open-source and available under the MIT License.
