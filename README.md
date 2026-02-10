@@ -88,23 +88,28 @@ The project generates:
 - Evaluation metrics table (`topsis_conversational_results.csv`)  
 - TOPSIS ranking bar graph (`topsis_ranking.png`)
 
-  <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f9788757-9d14-4a6c-ae59-f56bb0e6b96b" />
+<img width="1118" height="682" alt="image" src="https://github.com/user-attachments/assets/fd4eb23b-fdf1-4295-a62a-7461fcf99181" />
+
   
 - Decision matrix heatmap
   
-  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d860a45b-7021-4cfd-9a88-09e4bed304f3" />
+ <img width="770" height="529" alt="image" src="https://github.com/user-attachments/assets/11e311de-19c3-49ae-9048-1167a1d6000c" />
+
 
 - Criteria correlation heatmap
   
-  <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/a987ebca-819a-497d-8e1f-102b4fef10c6" />
+<img width="882" height="572" alt="image" src="https://github.com/user-attachments/assets/46c726af-05ad-4729-a831-a0e4887ef7c9" />
+
 
 - Pareto front plot
   
-  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/b4f4b470-935f-4c6f-9669-71d3a2abb422" />
+<img width="915" height="617" alt="image" src="https://github.com/user-attachments/assets/7a802369-131b-4545-b420-9993b8fa7c6e" />
+
 
 - Sensitivity analysis plot
 
-  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/277e5e71-5b76-47e1-bafc-698f132063d1" />
+ <img width="969" height="662" alt="image" src="https://github.com/user-attachments/assets/664055b5-aa0e-4f3e-b14e-b106543308ff" />
+
 
 These visualizations help in understanding model performance across different criteria.
 
